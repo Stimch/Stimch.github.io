@@ -1,0 +1,287 @@
+body {
+    background-color: #ffffff;
+}
+
+header {
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: initial;
+    width: 100%;
+    background: #ffffff;
+    height: 70px;
+    font-weight: bolder;
+    text-indent: 30px;
+    box-shadow: 0.4em 0em 10px rgba(122,122,122,0.5);
+}
+
+.title{
+    font-size: 36px;
+    padding-top: 10px;
+    text-align: left;
+   }
+
+h1 span{
+    display: block;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.zag {
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 200px;
+    font-size: 40px;
+    margin-left: 30px;
+}
+
+p span {
+    display: block;
+}
+
+.text {
+    margin-top: -20px;
+    text-indent: 30px;
+    color: gray;
+    font-size: 20px;
+}
+
+.shap {
+    text-align: right;
+    margin-top: -29px;
+    margin-right: 500px;
+    font-family: Arial;
+    cursor: pointer;
+    font-weight: lighter;
+    color: black;
+    font-size: 20px;
+}
+
+.look {
+    text-decoration: none;
+    color: white;
+}
+
+.works {
+    font-size: 20px;
+    margin-left: 30px;
+	color: #fff;
+	user-select: none; /* Убираем текстовое выделение */
+	text-decoration: none;	/* Убираем подчеркивание */
+	outline: none; /* Убираем контур вокруг ссылки */
+    background-color: black; /* Цвет фона */
+    padding: 0.5em 1em; /* Отступ от текста до рамки */
+    display: inline-flex;
+    border-radius: 5px;
+	}
+.works:active {
+    background-color: #ee6206; /* Цвет кнопки при нажатии */
+}
+.works:hover {
+    background-color: #f97f2e; /* Цвет кнопки при наведении курсора */
+}
+
+.pic {
+    margin-top: -200px;
+    margin-right: -12px;
+}
+
+.hr {
+    margin-top: 600px;
+    color: grey;
+    opacity: 0.2;
+}
+
+.design {
+    text-indent: 30px;
+}
+
+.desig {
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.num {
+    padding-bottom: 20px;
+    opacity: 0.6;
+    color: grey;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.about_design {
+    color: grey;
+    opacity: 0.7;
+    margin-top: -10px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+}
+
+.prototyping {
+    margin-left: 500px;
+    margin-top: -177px;
+}
+
+.using {
+    margin-left: 1080px;
+    margin-top: -177px;
+}
+
+.insta {
+    color: black;
+    margin-left: 1430px;
+    margin-top: -66px;
+    font-size: 18px;
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+    color: black;
+}
+
+a{
+    text-decoration: none;
+    
+}
+
+.look:visited {
+    color: white;
+}
+
+.git {
+    color: black;
+    margin-left: 1550px;
+    margin-top: -20px;
+    font-size: 18px;
+    text-decoration: none;
+}
+
+.projects {
+    color: black;
+    margin-left: 1645px;
+    margin-top: -21px;
+    font-size: 18px;
+    text-decoration: none;
+}
+
+.gallery {
+    font-size: 50px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+    margin-left: 30px;
+}
+
+.image {
+    margin-left: 30px;
+}
+
+.image:hover {
+    height: 500px;
+    width: 500px;
+    box-shadow: 3px 3px 7px black;
+    
+}
+
+.img {
+    margin-left: 160px;
+}
+
+.img:hover {
+    height: 500px;
+    width: 500px;
+    box-shadow: 3px 3px 7px black;
+    
+}
+
+.hr1 {
+    margin-top: 10px;
+    color: grey;
+    opacity: 0.2;
+}
+
+.home {
+    color: black;
+    margin-left: 1755px;
+    margin-top: -21px;
+    font-size: 18px;
+    text-decoration: none;
+}
+
+.hr2 {
+    margin-top: 30px;
+    color: grey;
+    opacity: 0.2;
+}
+
+.logo {
+    padding-right: 30px;
+}
+
+.egor {
+    margin-top: -48px;
+    margin-left: 72px;
+}
+
+.insta1 {
+    color: black;
+    margin-left: 1430px;
+    margin-top: -30px;
+    font-size: 18px;
+    text-decoration: none;
+}
+
+.git1 {
+    color: black;
+    margin-left: 1550px;
+    margin-top: -20px;
+    font-size: 18px;
+    text-decoration: none;
+}
+
+.home1 {
+    color: black;
+    margin-left: 1755px;
+    margin-top: -21px;
+    font-size: 18px;
+    text-decoration: none;
+}
+
+.projects1 {
+    color: black;
+    margin-left: 1645px;
+    margin-top: -21px;
+    font-size: 18px;
+    text-decoration: none;
+}
+
+.insta2 {
+    color: black;
+    margin-left: 1430px;
+    margin-top: -66px;
+    font-size: 18px;
+    text-decoration: none;
+}
+
+.git2 {
+    color: black;
+    margin-left: 1550px;
+    margin-top: -20px;
+    font-size: 18px;
+    text-decoration: none;
+}
+
+.home2 {
+    color: black;
+    margin-left: 1755px;
+    margin-top: -21px;
+    font-size: 18px;
+    text-decoration: none;
+}
+
+.projects2 {
+    color: black;
+    margin-left: 1645px;
+    margin-top: -21px;
+    font-size: 18px;
+    text-decoration: none;
+}
+
+body {
+    width: 100%;
+}
